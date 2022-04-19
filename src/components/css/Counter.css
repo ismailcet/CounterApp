@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
+.counter{
+    text-align:center;
+    font-family: "Roboto", sans-serif;
+}
+.counter-title{
+    font-size:5rem;
+    margin-bottom: 0;
+    color:rgb(16, 42, 66);
+}
+.number{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size:6rem;
+    color:rgb(16, 42, 66);
+}
